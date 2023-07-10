@@ -1,4 +1,4 @@
-https://www.canva.com/design/DAFoNJlOhOs/view
+<a href="https://www.canva.com/design/DAFoNJlOhOs/view" target="_blank"> <img src="/images/toDo.png" width="120" height="120"/></a> 
 <h1 align="center">Hi 👋, I'm Nico</h1>
 <h3 align="center">A Full Stack Web Developer from Argentina :satisfied:</h3>
 <h3 align="left">I'm a Full Stack Web Developer with experience in building scalable and high-performance web applications :fire::fire::fire: </h3>
