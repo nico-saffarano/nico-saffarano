@@ -151,8 +151,4 @@
   </tr>
 </table>
 
-
-
-
-- 💬 Ask me about **react,tailwind,javascript**
 - 📫 Email: **nico.saffarano@gmail.com**
