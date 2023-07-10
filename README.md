@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nico</h1>
 <h3 align="center">A Full Stack Web Developer from Argentina :satisfied:</h3>
-<h3 align="left">I'm a Full Stack Web Developer with experience in building scalable and high-performance web applications :fire::fire::fire:. I'm always seeking to learn and improve my skill set to deliver quality products :muscle::muscle: </h3>
+<h3 align="left">I'm a Full Stack Web Developer with experience in building scalable and high-performance web applications :fire::fire::fire: </h3>
+  <h4 align="left">I'm always seeking to learn and improve my skill set to deliver quality products :muscle::muscle: </h4>
 
 - 🌱 I’m currently learning **Java,C#**
 
