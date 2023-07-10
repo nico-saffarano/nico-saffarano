@@ -1,4 +1,4 @@
-![Header](./banner-profile-github)
+![Header](./banner-profile-github.png)
 <h1 align="center">Hi 👋, I'm Nico</h1>
 <h3 align="center">A Full Stack Web Developer from Argentina :satisfied:</h3>
 <h3 align="left">I'm a Full Stack Web Developer with experience in building scalable and high-performance web applications :fire::fire::fire: </h3>
