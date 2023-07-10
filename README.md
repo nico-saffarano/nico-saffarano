@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Hi there! I'm Nicolás Saffarano 👋</h1>
 
-<!--
-**nicoSaffarano1995/nicoSaffarano1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>About Me</h3>
 
-Here are some ideas to get you started:
+<h5>I'm a passionate Full Stack Web Developer with experience in building scalable and high-performance web applications. I love exploring new technologies and challenging my skills to build innovative solutions. I'm always seeking to learn and improve my skill set to deliver quality products.</h5>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies
+Proficient
+JavaScript
+React.js
+Node.js
+Redux
+Express.js
+Sequelize
+Tailwind CSS
+Currently Learning
+Java
+C#
